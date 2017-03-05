@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Adobe a décidé d'acquérir les droits d'utilisation d'une nouvelle interfece designée par [Rahul Patil](https://www.behance.net/Raj8984) pour mettre a jour l'interface générale de Bahance.
+Adobe a décidé d'acquérir les droits d'utilisation d'une nouvelle interface pour Behance designée par [Rahul Patil](https://www.behance.net/Raj8984)
 
 Dans un premier temps, et afin de présenter l'outil en interne, vous êtes en charge de mettre en place une plateforme Wordpress qui gère uniquement la partie galerie.
 
@@ -28,11 +28,12 @@ ATTENTION : c'est une liste d'article qui est utilisée pour la page d'accueil d
 ## Resources à disposition
 
 Si besoin, vous trouverez une archive contenant des visuels à l'adresse suivante :
-<http://www.tisseur-de-toilr.fr/_comicspics.zip>
+<http://www.tisseur-de-toile.fr/_comicspics.zip>
 
 ## Rendu attendu
 
 Le rendu sera effectué sur le dépôt qui vous est fourni avec les recommendantions suivantes :
+
 1. Tous les codes sources de Wordpress seront à placer sur le dépôt fourni
 2. A la racine, vous placerez un dossier "__bdd" qui contiendra l'export SQL de votre base de données
 3. Un fichier ".gitignore" est déjà présent, vous pouvez le modifier en fonction de vos besoins en conservant toutefois l'intégralité des informations déjà présentes dans le fichier
