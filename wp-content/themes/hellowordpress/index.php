@@ -13,7 +13,8 @@
  * @since FoundationPress 1.0.0
  */
 
-get_header(); ?>
+get_header();
+get_sidebar(); ?>
 
 <div id="page" role="main">
 	<article class="main-content">
@@ -42,7 +43,7 @@ get_header(); ?>
 		<?php endif; ?>
 
 	</article>
-	<?php get_sidebar(); ?>
+
 
 </div>
 
