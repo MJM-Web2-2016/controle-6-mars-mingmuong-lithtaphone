@@ -7,7 +7,9 @@
  * @package FoundationPress
  * @since FoundationPress 1.0.0
  */
-
+ $portrait = get_post_meta($post->ID, 'portrait', true);
+ $vue = get_post_meta($post->ID, 'vue', true);
+ $like = get_post_meta($post->ID, 'like', true);
 ?>
 
 <div id="post-<?php the_ID(); ?>" <?php post_class('blogpost-entry'); ?>>
